@@ -34,9 +34,9 @@ Exemplos de parâmetros:
 - Location ID: us-central1
 - Model ID: text-bison@001 ou gemini-1.5-pro-preview-0409
 
-Modelos de Dados
-PredictRequest: representa o conteúdo enviado para o modelo.
-PredictResponse: representa o conteúdo recebido como resposta.
+Modelos de Dados:
+- PredictRequest: representa o conteúdo enviado para o modelo.
+- PredictResponse: representa o conteúdo recebido como resposta.
 
 Autenticação com OAuth2
 - Para garantir a segurança das requisições, o app utiliza tokens OAuth2 gerados localmente.
