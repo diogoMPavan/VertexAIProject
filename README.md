@@ -67,6 +67,3 @@ Observações Relevantes
 - O Location ID refere-se ao datacenter onde o serviço da IA está hospedado, e não à localização geográfica do usuário.
 - É necessário ativar o Billing no projeto Google Cloud para liberar o uso completo de modelos como Gemini ou Text-Bison.
 
-Créditos
-
-Desenvolvido por Diogo como projeto de integração com serviços de Inteligência Artificial em Android, com auxílio de ferramentas como Chat GPT para dúvidas e documentação.
